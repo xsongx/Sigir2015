@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: sigir2015.aux
+The style file: abbrv.bst
+Database file #1: subjectivity.bib
+You've used 41 entries,
+            2118 wiz_defined-function locations,
+            732 strings with 11807 characters,
+and the built_in function-call counts, 18402 in all, are:
+= -- 1877
+> -- 886
+< -- 27
++ -- 349
+- -- 306
+* -- 1246
+:= -- 2828
+add.period$ -- 148
+call.type$ -- 41
+change.case$ -- 274
+chr.to.int$ -- 0
+cite$ -- 41
+duplicate$ -- 755
+empty$ -- 1415
+format.name$ -- 306
+if$ -- 4062
+int.to.chr$ -- 0
+int.to.str$ -- 41
+missing$ -- 43
+newline$ -- 208
+num.names$ -- 82
+pop$ -- 354
+preamble$ -- 1
+purify$ -- 235
+quote$ -- 0
+skip$ -- 551
+stack$ -- 0
+substring$ -- 1165
+swap$ -- 282
+text.length$ -- 27
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 160
+warning$ -- 0
+while$ -- 173
+width$ -- 43
+write$ -- 476

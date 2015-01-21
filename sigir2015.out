@@ -1,0 +1,25 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Related Work}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Retweeting Analysis}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Sentiment Analysis}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Topic-Sentiment Model}{section.2}% 5
+\BOOKMARK [1][-]{section.3}{Subjectivity Model}{}% 6
+\BOOKMARK [2][-]{subsection.3.1}{Intuitions and Our Approach}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.2}{Definition}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.3}{Establishment of Subjectivity Model}{section.3}% 9
+\BOOKMARK [3][-]{subsubsection.3.3.1}{Topic Analysis}{subsection.3.3}% 10
+\BOOKMARK [3][-]{subsubsection.3.3.2}{Opinion Mining}{subsection.3.3}% 11
+\BOOKMARK [3][-]{subsubsection.3.3.3}{Concreting Subjectivity Model}{subsection.3.3}% 12
+\BOOKMARK [1][-]{section.4}{Retweeting Analysis With Subjectivity Model}{}% 13
+\BOOKMARK [2][-]{subsection.4.1}{Problem Formulation}{section.4}% 14
+\BOOKMARK [2][-]{subsection.4.2}{Subjectivity Similarity}{section.4}% 15
+\BOOKMARK [3][-]{subsubsection.4.2.1}{Opinion Similarity}{subsection.4.2}% 16
+\BOOKMARK [3][-]{subsubsection.4.2.2}{Subjectivity Similarity}{subsection.4.2}% 17
+\BOOKMARK [2][-]{subsection.4.3}{Retweeting Analysis}{section.4}% 18
+\BOOKMARK [1][-]{section.5}{Experiments}{}% 19
+\BOOKMARK [2][-]{subsection.5.1}{Dataset and Settings}{section.5}% 20
+\BOOKMARK [2][-]{subsection.5.2}{Correlation Test}{section.5}% 21
+\BOOKMARK [2][-]{subsection.5.3}{Case Study}{section.5}% 22
+\BOOKMARK [2][-]{subsection.5.4}{Performance Evaluation}{section.5}% 23
+\BOOKMARK [1][-]{section.6}{Conclusion}{}% 24
+\BOOKMARK [1][-]{section.7}{References}{}% 25

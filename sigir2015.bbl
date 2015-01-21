@@ -1,0 +1,247 @@
+\begin{thebibliography}{10}
+
+\bibitem{abel2011analyzing}
+F.~Abel, Q.~Gao, G.-J. Houben, and K.~Tao.
+\newblock Analyzing user modeling on twitter for personalized news
+  recommendations.
+\newblock In {\em UMAP}, pages 1--12. Springer, 2011.
+
+\bibitem{asiaee2012if}
+A.~Asiaee~T, M.~Tepper, A.~Banerjee, and G.~Sapiro.
+\newblock If you are happy and you know it... tweet.
+\newblock In {\em Proceedings of the 21st ACM international conference on
+  Information and knowledge management}, pages 1602--1606. ACM, 2012.
+
+\bibitem{blei2003latent}
+D.~M. Blei, A.~Y. Ng, and M.~I. Jordan.
+\newblock Latent dirichlet allocation.
+\newblock {\em the Journal of machine Learning research}, 3:993--1022, 2003.
+
+\bibitem{boyd2010tweet}
+D.~Boyd, S.~Golder, and G.~Lotan.
+\newblock Tweet, tweet, retweet: Conversational aspects of retweeting on
+  twitter.
+\newblock In {\em System Sciences (HICSS), 2010 43rd Hawaii International
+  Conference on}, pages 1--10. IEEE, 2010.
+
+\bibitem{calais2011bias}
+P.~H. Calais~Guerra, A.~Veloso, W.~Meira~Jr, and V.~Almeida.
+\newblock From bias to opinion: a transfer-learning approach to real-time
+  sentiment analysis.
+\newblock In {\em Proceedings of the 17th ACM SIGKDD international conference
+  on Knowledge discovery and data mining}, pages 150--158. ACM, 2011.
+
+\bibitem{chen2010short}
+J.~Chen, R.~Nairn, L.~Nelson, M.~Bernstein, and E.~Chi.
+\newblock Short and tweet: experiments on recommending content from information
+  streams.
+\newblock In {\em Proc. of the SIGCHI Conference on Human Factors in Computing
+  Systems}, pages 1185--1194. ACM, 2010.
+
+\bibitem{comarela2012understanding}
+G.~Comarela, M.~Crovella, V.~Almeida, and F.~Benevenuto.
+\newblock Understanding factors that affect response rates in twitter.
+\newblock In {\em Proc. of the 23rd ACM conference on Hypertext and social
+  media}, pages 123--132. ACM, 2012.
+
+\bibitem{engbert2007agency}
+K.~Engbert, A.~Wohlschl{\"a}ger, R.~Thomas, and P.~Haggard.
+\newblock Agency, subjective time, and other minds.
+\newblock {\em Journal of Experimental Psychology: Human Perception and
+  Performance}, 33(6):1261, 2007.
+
+\bibitem{feng2013retweet}
+W.~Feng and J.~Wang.
+\newblock Retweet or not?: personalized tweet re-ranking.
+\newblock In {\em Proc. of the 6th WSDM}, pages 577--586. ACM, 2013.
+
+\bibitem{fisher1970statistical}
+S.~R.~A. Fisher, S.~Genetiker, R.~A. Fisher, S.~Genetician, G.~Britain, R.~A.
+  Fisher, and S.~G{\'e}n{\'e}ticien.
+\newblock {\em Statistical methods for research workers}, volume~14.
+\newblock Oliver and Boyd Edinburgh, 1970.
+
+\bibitem{hong2010empirical}
+L.~Hong and B.~D. Davison.
+\newblock Empirical study of topic modeling in twitter.
+\newblock In {\em Proc. of the First Workshop on Social Media Analytics}, pages
+  80--88. ACM, 2010.
+
+\bibitem{hu2013unsupervised}
+X.~Hu, J.~Tang, H.~Gao, and H.~Liu.
+\newblock Unsupervised sentiment analysis with emotional signals.
+\newblock In {\em Proc. of the 22nd WWW}, pages 607--618. International World
+  Wide Web Conferences Steering Committee, 2013.
+
+\bibitem{hu2013exploiting}
+X.~Hu, L.~Tang, J.~Tang, and H.~Liu.
+\newblock Exploiting social relations for sentiment analysis in microblogging.
+\newblock In {\em Proceedings of the sixth ACM international conference on Web
+  search and data mining}, pages 537--546. ACM, 2013.
+
+\bibitem{Hyman2000}
+J.~Hyman.
+\newblock {Three Fallacies about Action}.
+\newblock {\em Behavioral and Brain Sciences}, 23:665--666, 2000.
+
+\bibitem{jenders2013analyzing}
+M.~Jenders, G.~Kasneci, and F.~Naumann.
+\newblock Analyzing and predicting viral tweets.
+\newblock In {\em Proc. of the 22nd WWW}, pages 657--664. International World
+  Wide Web Conferences Steering Committee, 2013.
+
+\bibitem{jiang2011target}
+L.~Jiang, M.~Yu, M.~Zhou, X.~Liu, and T.~Zhao.
+\newblock Target-dependent twitter sentiment classification.
+\newblock In {\em Proceedings of the 49th Annual Meeting of the Association for
+  Computational Linguistics: Human Language Technologies-Volume 1}, pages
+  151--160. Association for Computational Linguistics, 2011.
+
+\bibitem{kwak2010twitter}
+H.~Kwak, C.~Lee, H.~Park, and S.~Moon.
+\newblock What is twitter, a social network or a news media?
+\newblock In {\em Proc. of the 19th WWW}, pages 591--600. ACM, 2010.
+
+\bibitem{lin2009joint}
+C.~Lin and Y.~He.
+\newblock Joint sentiment/topic model for sentiment analysis.
+\newblock In {\em Proceedings of the 18th ACM conference on Information and
+  knowledge management}, pages 375--384. ACM, 2009.
+
+\bibitem{liu2012sentiment}
+B.~Liu.
+\newblock Sentiment analysis and opinion mining.
+\newblock {\em Synthesis Lectures on Human Language Technologies}, 5(1):1--167,
+  2012.
+
+\bibitem{Luo:2013RMF}
+Z.~Luo, M.~Osborne, J.~Tang, and T.~Wang.
+\newblock Who will retweet me?: finding retweeters in twitter.
+\newblock In {\em Proc. of the 36th ACM SIGIR}, SIGIR '13, pages 869--872, New
+  York, NY, USA, 2013. ACM.
+
+\bibitem{macskassy2011people}
+S.~A. Macskassy and M.~Michelson.
+\newblock Why do people retweet? anti-homophily wins the day!
+\newblock In {\em ICWSM}, 2011.
+
+\bibitem{mcpherson2001birds}
+M.~McPherson, L.~Smith-Lovin, and J.~M. Cook.
+\newblock Birds of a feather: Homophily in social networks.
+\newblock {\em Annual review of sociology}, pages 415--444, 2001.
+
+\bibitem{mei2007topic}
+Q.~Mei, X.~Ling, M.~Wondra, H.~Su, and C.~Zhai.
+\newblock Topic sentiment mixture: modeling facets and opinions in weblogs.
+\newblock In {\em Proceedings of the 16th international conference on World
+  Wide Web}, pages 171--180. ACM, 2007.
+
+\bibitem{moore2008awareness}
+J.~Moore and P.~Haggard.
+\newblock Awareness of action: Inference and prediction.
+\newblock {\em Consciousness and cognition}, 17(1):136--144, 2008.
+
+\bibitem{naveed2011bad}
+N.~Naveed, T.~Gottron, J.~Kunegis, and A.~C. Alhadi.
+\newblock Bad news travel fast: A content-based analysis of interestingness on
+  twitter.
+\newblock In {\em Proceedings of the 3rd International Web Science Conference},
+  page~8. ACM, 2011.
+
+\bibitem{naveed2011searching}
+N.~Naveed, T.~Gottron, J.~Kunegis, and A.~C. Alhadi.
+\newblock Searching microblogs: coping with sparsity and document quality.
+\newblock In {\em Proc. of the 20th ACM CIKM}, pages 183--188. ACM, 2011.
+
+\bibitem{pang2008opinion}
+B.~Pang and L.~Lee.
+\newblock Opinion mining and sentiment analysis.
+\newblock {\em Foundations and trends in information retrieval}, 2(1-2):1--135,
+  2008.
+
+\bibitem{scikit-learn}
+F.~Pedregosa, G.~Varoquaux, A.~Gramfort, V.~Michel, B.~Thirion, O.~Grisel,
+  M.~Blondel, P.~Prettenhofer, R.~Weiss, V.~Dubourg, J.~Vanderplas, A.~Passos,
+  D.~Cournapeau, M.~Brucher, M.~Perrot, and E.~Duchesnay.
+\newblock Scikit-learn: Machine learning in {P}ython.
+\newblock {\em Journal of Machine Learning Research}, 12:2825--2830, 2011.
+
+\bibitem{pennacchiotti2011machine}
+M.~Pennacchiotti and A.-M. Popescu.
+\newblock A machine learning approach to twitter user classification.
+\newblock In {\em ICWSM}, 2011.
+
+\bibitem{petrovic2011rt}
+S.~Petrovic, M.~Osborne, and V.~Lavrenko.
+\newblock Rt to win! predicting message propagation in twitter.
+\newblock In {\em ICWSM}, 2011.
+
+\bibitem{pfitzner2012emotional}
+R.~Pfitzner, A.~Garas, and F.~Schweitzer.
+\newblock Emotional divergence influences information spreading in twitter.
+\newblock In {\em ICWSM}, 2012.
+
+\bibitem{ramage2009labeled}
+D.~Ramage, D.~Hall, R.~Nallapati, and C.~D. Manning.
+\newblock Labeled lda: A supervised topic model for credit attribution in
+  multi-labeled corpora.
+\newblock In {\em Proceedings of the 2009 Conference on Empirical Methods in
+  Natural Language Processing: Volume 1-Volume 1}, pages 248--256. Association
+  for Computational Linguistics, 2009.
+
+\bibitem{rehurek_lrec}
+R.~{\v R}eh{\r u}{\v r}ek and P.~Sojka.
+\newblock {Software Framework for Topic Modelling with Large Corpora}.
+\newblock In {\em {Proceedings of the LREC 2010 Workshop on New Challenges for
+  NLP Frameworks}}, pages 45--50, Valletta, Malta, May 2010. ELRA.
+
+\bibitem{rosen2004author}
+M.~Rosen-Zvi, T.~Griffiths, M.~Steyvers, and P.~Smyth.
+\newblock The author-topic model for authors and documents.
+\newblock In {\em Proceedings of the 20th conference on Uncertainty in
+  artificial intelligence}, pages 487--494. AUAI Press, 2004.
+
+\bibitem{starbird2012will}
+K.~Starbird and L.~Palen.
+\newblock (how) will the revolution be retweeted?: information diffusion and
+  the 2011 egyptian uprising.
+\newblock In {\em Proceedings of the acm 2012 conference on computer supported
+  cooperative work}, pages 7--16. ACM, 2012.
+
+\bibitem{stein2005subjectivity}
+D.~Stein and S.~Wright.
+\newblock {\em Subjectivity and Subjectivisation: Linguistic Perspectives}.
+\newblock Cambridge University Press, 2005.
+
+\bibitem{suh2010want}
+B.~Suh, L.~Hong, P.~Pirolli, and E.~H. Chi.
+\newblock Want to be retweeted? large scale analytics on factors impacting
+  retweet in twitter network.
+\newblock In {\em 2010 IEEE Second International Conference on Social
+  Computing}, pages 177--184. IEEE, 2010.
+
+\bibitem{thelwall2012sentiment}
+M.~Thelwall, K.~Buckley, and G.~Paltoglou.
+\newblock Sentiment strength detection for the social web.
+\newblock {\em Journal of the American Society for Information Science and
+  Technology}, 63(1):163--173, 2012.
+
+\bibitem{thelwall2010sentiment}
+M.~Thelwall, K.~Buckley, G.~Paltoglou, D.~Cai, and A.~Kappas.
+\newblock Sentiment strength detection in short informal text.
+\newblock {\em Journal of the American Society for Information Science and
+  Technology}, 61(12):2544--2558, 2010.
+
+\bibitem{yang2010understanding}
+Z.~Yang, J.~Guo, K.~Cai, J.~Tang, J.~Li, L.~Zhang, and Z.~Su.
+\newblock Understanding retweeting behaviors in social networks.
+\newblock In {\em Proc. of the 19th ACM CIKM}, pages 1633--1636. ACM, 2010.
+
+\bibitem{zhao2012user}
+T.~Zhao, C.~Li, Q.~Ding, and L.~Li.
+\newblock User-sentiment topic model: refining user's topics with sentiment
+  information.
+\newblock In {\em Proceedings of the ACM SIGKDD Workshop on Mining Data
+  Semantics}, page~10. ACM, 2012.
+
+\end{thebibliography}
